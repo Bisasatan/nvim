@@ -42,7 +42,7 @@ return {
             position = "belowright",
             size = 10,
             encoding = "utf-8",
-            auto_close_when_success = true,
+            auto_close_when_success = false,
           },
           toggleterm = {
             direction = "float",
